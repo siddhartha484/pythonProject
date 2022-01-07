@@ -11,9 +11,12 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print('test branch3')
-    print('dummy')
-    print('this is test branch')
-    print('this contains test-master data related items')
+
+    print('test branch')
+    print('this contains test branch related data items')
+    print('PyCharm')
+    print('sample')
+
+ 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
