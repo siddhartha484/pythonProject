@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print('test branch3')
     print('dummy')
     print('this is test branch')
+    print('this contains test-master data related items')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
