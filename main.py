@@ -13,6 +13,7 @@ def print_hi(name):
 if __name__ == '__main__':
 
     print('test branch')
+    print('this contains test branch related data items')
     print('PyCharm')
     print('sample')
 
